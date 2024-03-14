@@ -1,0 +1,4 @@
+repository "SpaceRaiders@Asalars@cloud"
+  path "/"
+    br "/main"
+    co "/main"
